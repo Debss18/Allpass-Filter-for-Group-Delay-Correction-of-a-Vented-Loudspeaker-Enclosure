@@ -8,7 +8,7 @@ loudspeakers at low frequencies.
  delay as the vented loudspeaker is implemented. The equalization filter is implemented in the
  following steps:
  ● Time-reverse x[n]
- ● Applysecondorder allpass filter
+ ● Apply secondorder allpass filter
  ● Time-reverse x[n] again
 
 It can be observed that the equalization mechanism does remove the effect of the loudspeaker
